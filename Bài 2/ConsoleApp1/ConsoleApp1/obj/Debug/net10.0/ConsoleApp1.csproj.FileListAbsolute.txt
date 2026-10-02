@@ -1,0 +1,14 @@
+/Users/binbin/Documents/Bài Kiểm Tra số 1/Bài 2/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1
+/Users/binbin/Documents/Bài Kiểm Tra số 1/Bài 2/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json
+/Users/binbin/Documents/Bài Kiểm Tra số 1/Bài 2/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/Users/binbin/Documents/Bài Kiểm Tra số 1/Bài 2/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll
+/Users/binbin/Documents/Bài Kiểm Tra số 1/Bài 2/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb
+/Users/binbin/Documents/Bài Kiểm Tra số 1/Bài 2/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/binbin/Documents/Bài Kiểm Tra số 1/Bài 2/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/binbin/Documents/Bài Kiểm Tra số 1/Bài 2/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/Users/binbin/Documents/Bài Kiểm Tra số 1/Bài 2/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/binbin/Documents/Bài Kiểm Tra số 1/Bài 2/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll
+/Users/binbin/Documents/Bài Kiểm Tra số 1/Bài 2/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/Users/binbin/Documents/Bài Kiểm Tra số 1/Bài 2/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
+/Users/binbin/Documents/Bài Kiểm Tra số 1/Bài 2/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/Users/binbin/Documents/Bài Kiểm Tra số 1/Bài 2/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll
